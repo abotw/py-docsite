@@ -53,6 +53,10 @@ Temporary Items
 # config dir
 .obsidian/
 
+### Anaconda ###
+# config dir
+anaconda_projects/
+
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
